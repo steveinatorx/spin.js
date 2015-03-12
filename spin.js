@@ -143,7 +143,7 @@
     className: 'spinner', // CSS class to assign to the element
     top: '50%',           // center vertically
     left: '50%',          // center horizontally
-    position: 'absolute'  // element position
+    position: 'relative'  // element position
   }
 
   /** The constructor */
