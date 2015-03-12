@@ -1,6 +1,6 @@
 {
   "name": "spin",
-  "repo": "fgnass/spin.js",
+  "repo": "steveinatorx/spin.js",
   "description": "A spinning activity indicator",
   "version": "2.0.1",
   "main": "spin.js",
